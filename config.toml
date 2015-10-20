@@ -1,0 +1,4 @@
+baseurl = "http://village-geek.ru/"
+languageCode = "ru-RU"
+title = "Деревенский гик"
+uglyurls = true

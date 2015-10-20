@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Деревенский гик</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Деревенский гик</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 20 Oct 2015 15:34:22 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Дефрагментация за 31 день</title>
+      <link>http://localhost:1313/31day/</link>
+      <pubDate>Tue, 20 Oct 2015 15:34:22 +0300</pubDate>
+      
+      <guid>http://localhost:1313/31day/</guid>
+      <description>&lt;p&gt;Время меняться.
+За 31 год было накоплено много мусора. В голове и в теле. Настало время дефрагментации.
+31 день на встраивание новых привычек и вытесненеие старых. Это война - 1 на 1 с самим собой.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
