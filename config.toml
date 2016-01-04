@@ -2,7 +2,7 @@ baseurl = "https://village-geek.ru/"
 languageCode = "ru-RU"
 title = "Деревенский гик"
 paginate = 5
-DisqusShortname = "village_geek"
+DisqusShortname = "villagegeek"
 Copyright = "Все авторские права на материалы принадлежат автору - 2016"
 canonifyurls = true
 
