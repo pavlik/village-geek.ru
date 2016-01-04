@@ -1,4 +1,25 @@
-baseurl = "http://village-geek.ru/"
+baseurl = "https://village-geek.ru/"
 languageCode = "ru-RU"
 title = "Деревенский гик"
-uglyurls = true
+paginate = 5
+DisqusShortname = "village_geek"
+Copyright = "Все авторские права на материалы принадлежат автору - 2016"
+canonifyurls = true
+
+[params]
+  description = "Продюсер, гофер, интернет-гик"
+  cover = "images/cover.jpg"
+  author = "Village Geek"
+  authorlocation = "Krasnodar, Russia"
+  authorwebsite = "https://village-geek.ru"
+  bio= "Продюсер, гофер, интернет-гик"
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/..." 
+  githubName = "pavlik"
+  twitterName = "village_geek"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
