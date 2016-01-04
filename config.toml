@@ -3,7 +3,7 @@ languageCode = "ru-RU"
 title = "Деревенский гик"
 paginate = 5
 DisqusShortname = "villagegeek"
-Copyright = "Все авторские права на материалы принадлежат автору - 2016"
+Copyright = "все авторские права на материалы принадлежат автору. А на дворе шел 2016 год."
 canonifyurls = true
 
 [params]
@@ -14,7 +14,7 @@ canonifyurls = true
   authorwebsite = "https://village-geek.ru"
   bio= "Продюсер, гофер, интернет-гик"
   logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-497656-16"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/village-geek_ru" 
   githubName = "pavlik"
