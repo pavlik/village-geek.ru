@@ -2,6 +2,7 @@
 date = "2015-11-09T11:34:58+03:00"
 draft = false
 title = "Чтобы остаться на плаву, развивайте Soft Skills"
+image = "images/post/soft_skills.jpg"
 
 +++
 
